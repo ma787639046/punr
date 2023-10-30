@@ -1,5 +1,5 @@
 # PUNR: Pre-training with User Behavior Modeling for News Recommendation
-Codebase for **[EMNLP 2023 Findings]** [PUNR: Pre-training with User Behavior Modeling for News Recommendation](https://arxiv.org/abs/2212.09598)
+Codebase for **[EMNLP 2023 Findings]** [PUNR: Pre-training with User Behavior Modeling for News Recommendation](https://arxiv.org/abs/2304.12633)
 
 ## Overview
 In this work, we propose an unsupervised pre-training paradigm with two tasks for effective user behavior modeling.
